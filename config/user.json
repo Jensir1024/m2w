@@ -1,0 +1,17 @@
+{
+    "jensir1024": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Nginx"
+        ],
+        "post_metadata": {
+            "category": ["Nginx"],
+            "tag": ["Nginx","Nginx介绍"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    }
+
+}
