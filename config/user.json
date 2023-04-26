@@ -1,14 +1,14 @@
 {
-    "Nginx": {
+    "MySql": {
         "domain": "https://jensir1024.com",
         "username": "gengchangzhou",
         "password": "gcz@#2022",
         "path_markdown": [
-            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Nginx"
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/DataBase/MySql"
         ],
         "post_metadata": {
-            "category": ["Nginx"],
-            "tag": ["Nginx","Nginx介绍"],
+            "category": ["MySql"],
+            "tag": ["MySql","MySql性能优化","数据库性能优化"],
             "status": "publish"
         },
         "path_legacy_json": "/config/legacy"
@@ -23,6 +23,34 @@
         "post_metadata": {
             "category": ["OkHttp"],
             "tag": ["Java","OkHttp","OkHttp基础使用","OkHttp用法"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    },
+    "SpringCloud": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Java/SpringCloud"
+        ],
+        "post_metadata": {
+            "category": ["SpringCloud"],
+            "tag": ["SpringCloud","SpringCloud介绍","SpringCloud简介"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    },
+    "Nginx": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Nginx"
+        ],
+        "post_metadata": {
+            "category": ["Nginx"],
+            "tag": ["Nginx","Nginx介绍"],
             "status": "publish"
         },
         "path_legacy_json": "/config/legacy"
