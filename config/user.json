@@ -7,8 +7,36 @@
             "D:/CodeWorkSpace/blog/markdown/jensir1024/md/DataBase/MySql"
         ],
         "post_metadata": {
-            "category": ["MySql"],
+            "category": ["DataBase","MySql"],
             "tag": ["MySql","MySql性能优化","数据库性能优化"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    },
+    "Java基础": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Java/Java基础"
+        ],
+        "post_metadata": {
+            "category": ["Java","Java基础"],
+            "tag": ["Java","BigDecimal","BigDecimal","BigDecimal详解"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    },
+    "Http": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Network/Http"
+        ],
+        "post_metadata": {
+            "category": ["Network","Http"],
+            "tag": ["Network","Http","Http状态码","Http响应"],
             "status": "publish"
         },
         "path_legacy_json": "/config/legacy"
@@ -21,7 +49,7 @@
             "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Java/OkHttp"
         ],
         "post_metadata": {
-            "category": ["OkHttp"],
+            "category": ["Java","OkHttp"],
             "tag": ["Java","OkHttp","OkHttp基础使用","OkHttp用法"],
             "status": "publish"
         },
@@ -35,7 +63,7 @@
             "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Java/SpringCloud"
         ],
         "post_metadata": {
-            "category": ["SpringCloud"],
+            "category": ["Java","SpringCloud"],
             "tag": ["SpringCloud","SpringCloud介绍","SpringCloud简介"],
             "status": "publish"
         },
