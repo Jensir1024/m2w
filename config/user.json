@@ -22,7 +22,7 @@
         ],
         "post_metadata": {
             "category": ["Java","Java基础"],
-            "tag": ["Java","BigDecimal","BigDecimal","BigDecimal详解"],
+            "tag": ["Java","BigDecimal","BigDecimal","BigDecimal的比较","BigDecimal的compareTo()、equal()、==区别"],
             "status": "publish"
         },
         "path_legacy_json": "/config/legacy"
@@ -83,5 +83,19 @@
         },
         "path_legacy_json": "/config/legacy"
     }
-
+,
+    "Windows": {
+        "domain": "https://jensir1024.com",
+        "username": "gengchangzhou",
+        "password": "gcz@#2022",
+        "path_markdown": [
+            "D:/CodeWorkSpace/blog/markdown/jensir1024/md/Windows"
+        ],
+        "post_metadata": {
+            "category": ["Windows"],
+            "tag": ["Windows","Windows安装Microsoft Store"],
+            "status": "publish"
+        },
+        "path_legacy_json": "/config/legacy"
+    }
 }
